@@ -11,9 +11,8 @@ Criemhild Inc.
 ---
 
 ### **Key Information**
-* **대표 이름 (Representative Name):** AJ Ahn
-* **사업자명 (Business Name):** Criemhild Inc
-* **사업자 주소 (Business Address):** [Business Address]
+* **Company Information at the footer
+* ** Related Videos & 360° View: Bingsoo machine
 
 ---
 
