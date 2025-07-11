@@ -13,6 +13,7 @@ Criemhild Inc.
 ### **Key Information**
 * **Company Information at the footer
 * ** Related Videos & 360° View: Bingsoo machine
+* ** 360 rendering for ice cream introduction as well.
 
 ---
 
