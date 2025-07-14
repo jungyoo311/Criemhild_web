@@ -27,3 +27,4 @@ Alternative: Sketchfab embed for quick implementation or photo-based 360° views
 
 1. https://github.com/tailwindtoolbox/Landing-Page?tab=readme-ov-file
 2. https://github.com/tailwindtoolbox/Nordic-Store?tab=readme-ov-file
+3. https://github.com/tailwindtoolbox?tab=repositories
